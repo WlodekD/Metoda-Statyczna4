@@ -10,7 +10,6 @@ namespace Zad_5._8
     {
         static int Metoda(int x, int wynik)
         {
-
             while (x != 0)
             {
                 wynik = wynik + (x % 10);
